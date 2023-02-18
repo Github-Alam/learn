@@ -1,0 +1,23 @@
+checkversion>>$ git --version
+make directory>>$ mkdir git1st
+go to inside the folder>>$ cd git1st
+to start initialise the git>>$ git init
+add the name of the folder>>$ git add tx_number
+see the differences in the folder>>$ git diff
+see the adding folder>>$ git status
+commit into the local repository>>$ git commit folerName/ for all used -a and for message used -m 'write message'
+for config>>  git config --global user.email "you@example.com"
+  	      git config --global user.name "Your Name"
+back to home page>> cd ~
+to nevigate>> pwd
+back directory>> cd ..
+get the list of folder>>git ls
+to see the origin>> git remote -v
+push the folder into github>>
+
+there are 3 stage:  modified state>>staged state>> commit state
+ commend move to MS to SS:git add folder_name
+commend move to SS to MS:git restore --staged folder_name
+open or crreate vim file >> vim or vi file_name.type
+insert mode press>> i
+

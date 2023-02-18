@@ -25,4 +25,6 @@ if you want to close your file without saving then press ESC and write >> :q! an
 to save and close your file>> :wq
 to exit and close your vim editor>> press ESC and :q
 to save your file>> press ESC and type :w
+add all the file>> git add .
+create new file >> vim new_fileName
 
